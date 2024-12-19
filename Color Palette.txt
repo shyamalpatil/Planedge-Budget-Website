@@ -1,0 +1,6 @@
+Gray: #87898e
+White: #ffffff
+Base (Blue): #2a3d77
+Black: #32343b
+Primary (Light Blue): #c4cde5
+Border Color: #a8b4d8
